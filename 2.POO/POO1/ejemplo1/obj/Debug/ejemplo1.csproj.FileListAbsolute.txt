@@ -1,0 +1,7 @@
+C:\Users\albad\Desktop\prog3 TN\UTN-Programacion3\2.POO\POO1\ejemplo1\bin\Debug\ejemplo1.exe.config
+C:\Users\albad\Desktop\prog3 TN\UTN-Programacion3\2.POO\POO1\ejemplo1\bin\Debug\ejemplo1.exe
+C:\Users\albad\Desktop\prog3 TN\UTN-Programacion3\2.POO\POO1\ejemplo1\bin\Debug\ejemplo1.pdb
+C:\Users\albad\Desktop\prog3 TN\UTN-Programacion3\2.POO\POO1\ejemplo1\obj\Debug\ejemplo1.csproj.AssemblyReference.cache
+C:\Users\albad\Desktop\prog3 TN\UTN-Programacion3\2.POO\POO1\ejemplo1\obj\Debug\ejemplo1.csproj.CoreCompileInputs.cache
+C:\Users\albad\Desktop\prog3 TN\UTN-Programacion3\2.POO\POO1\ejemplo1\obj\Debug\ejemplo1.exe
+C:\Users\albad\Desktop\prog3 TN\UTN-Programacion3\2.POO\POO1\ejemplo1\obj\Debug\ejemplo1.pdb
