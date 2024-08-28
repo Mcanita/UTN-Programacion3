@@ -41,5 +41,11 @@ namespace ejemplo1
         {
             return sueldo;
         }
+
+        //MÉTODOS
+        public string Saludar()
+        {
+            return "HOLA SOY ... " + nombre;
+        }
     }
 }

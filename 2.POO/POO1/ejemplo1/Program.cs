@@ -17,6 +17,7 @@ namespace ejemplo1
             persona1.setSueldo(33);
 
             Console.WriteLine("mi nombre es "+ persona1.getNombre() +" tengo "+ persona1.getEdad() + " anios y mi sueldo es de $ " + persona1.getSueldo());
+            Console.WriteLine(persona1.Saludar());
 
             Botella botella1 = new Botella("azul", "vidrio");
             botella1.Capacidad = 50;
