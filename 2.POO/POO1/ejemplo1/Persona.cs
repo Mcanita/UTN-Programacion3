@@ -47,5 +47,11 @@ namespace ejemplo1
         {
             return "HOLA SOY ... " + nombre;
         }
+
+        //SOBRECARGA DE MÉTODO
+        public string Saludar(string personaje)
+        {
+            return "HOLA "+ personaje +" SOY ... " + nombre;
+        }
     }
 }

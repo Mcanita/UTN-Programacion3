@@ -44,5 +44,12 @@ namespace ejemplo3
             return 50;
            
         }
+        //SOBRECARGA DE MÉTODOS
+        public float Recargar(int cantidad)
+        {
+            CantidadActual += cantidad;
+            return cantidad * 50 / 100;
+
+        }
     }
 }

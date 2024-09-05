@@ -15,6 +15,9 @@ namespace ejemplo3
             Console.WriteLine("CAPACIDAD DE LA BOTELLA: " + b1.Capacidad);
             Console.WriteLine("LA CANTIDAD ACTUAL ES : "+ b1.CantidadActual);
 
+            b1.Recargar(20);
+            Console.WriteLine("LUEGO DE RECARGAR LA CANTIDAD ACTUAL ES : " + b1.CantidadActual);
+
             b1.Recargar();
             Console.WriteLine("LUEGO DE RECARGAR LA CANTIDAD ACTUAL ES : "+ b1.CantidadActual);
             Console.ReadKey();
