@@ -38,6 +38,13 @@ namespace ejemploHerencia3
                 Console.WriteLine(item.comunicarse()); //POLIMORFISMO
             }
 
+            List<Flyable> listaVoladores = new List<Flyable>(); //Una lista de objetos con la misma interfaz
+            listaVoladores.Add(new Canario());
+            listaVoladores.Add(new Aguila());
+            listaVoladores.Add(new Canario());
+
+            
+
             Console.ReadKey();
 
         }

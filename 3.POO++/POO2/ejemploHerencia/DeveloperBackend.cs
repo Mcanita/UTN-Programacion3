@@ -6,9 +6,7 @@ using System.Threading.Tasks;
 
 namespace ejemploHerencia
 {
-    // DEVELOPER HEREDA DE PERSONA 
-    sealed class Developer : Persona //SEALED NO ME PERMITE HACER HERENCIA 
+    class DeveloperBackend //: Developer  COMO ES SEALER NO PUEDE HEREDAR 
     {
-        public string  Seniority { get; set; }
     }
 }

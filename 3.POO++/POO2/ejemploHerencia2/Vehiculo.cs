@@ -9,7 +9,6 @@ namespace ejemploHerencia2
     class Vehiculo
     {
         
-        public string Motor { get; set; }
         public string Color{ get; set; }
         public string Marca  { get; set; }
         public string Patente { get; set; }

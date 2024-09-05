@@ -43,9 +43,12 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Aguila.cs" />
     <Compile Include="Animal.cs" />
     <Compile Include="AnimalDomestico.cs" />
     <Compile Include="AnimalSalvaje.cs" />
+    <Compile Include="Canario.cs" />
+    <Compile Include="Flyable.cs" />
     <Compile Include="Gato.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

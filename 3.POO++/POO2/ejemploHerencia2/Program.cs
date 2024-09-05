@@ -45,6 +45,10 @@ namespace ejemploHerencia2
             Console.WriteLine("la cantidad de camionetas es : " + listaCamionetas.Count);
             listaCamionetas.RemoveAt(1);// remuevo un objeto según el índice de la lista
             Console.WriteLine("la cantidad de camionetas es : " + listaCamionetas.Count);
+            
+
+            Auto a1 = new Auto();
+            a1.Motor = new Motor(); //AGREGACIÓN
             Console.ReadKey();
         }
     }

@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace ejemploHerencia
 {
-    class Persona
+    abstract class Persona //CLASE ABSTRACTA
     {
         public string Nombre { get; set; }
         public string Apellido{ get; set; }
