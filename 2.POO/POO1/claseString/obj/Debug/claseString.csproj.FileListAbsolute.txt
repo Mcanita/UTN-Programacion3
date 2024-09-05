@@ -1,0 +1,7 @@
+C:\Users\albad\Desktop\prog3 TN\UTN-Programacion3\2.POO\POO1\claseString\bin\Debug\claseString.exe.config
+C:\Users\albad\Desktop\prog3 TN\UTN-Programacion3\2.POO\POO1\claseString\bin\Debug\claseString.exe
+C:\Users\albad\Desktop\prog3 TN\UTN-Programacion3\2.POO\POO1\claseString\bin\Debug\claseString.pdb
+C:\Users\albad\Desktop\prog3 TN\UTN-Programacion3\2.POO\POO1\claseString\obj\Debug\claseString.csproj.AssemblyReference.cache
+C:\Users\albad\Desktop\prog3 TN\UTN-Programacion3\2.POO\POO1\claseString\obj\Debug\claseString.csproj.CoreCompileInputs.cache
+C:\Users\albad\Desktop\prog3 TN\UTN-Programacion3\2.POO\POO1\claseString\obj\Debug\claseString.exe
+C:\Users\albad\Desktop\prog3 TN\UTN-Programacion3\2.POO\POO1\claseString\obj\Debug\claseString.pdb
