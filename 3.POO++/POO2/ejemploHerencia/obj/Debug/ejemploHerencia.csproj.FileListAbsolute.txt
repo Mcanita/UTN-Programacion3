@@ -1,0 +1,7 @@
+C:\Users\albad\Desktop\prog3 TN\UTN-Programacion3\3.POO++\POO2\ejemploHerencia\bin\Debug\ejemploHerencia.exe.config
+C:\Users\albad\Desktop\prog3 TN\UTN-Programacion3\3.POO++\POO2\ejemploHerencia\bin\Debug\ejemploHerencia.exe
+C:\Users\albad\Desktop\prog3 TN\UTN-Programacion3\3.POO++\POO2\ejemploHerencia\bin\Debug\ejemploHerencia.pdb
+C:\Users\albad\Desktop\prog3 TN\UTN-Programacion3\3.POO++\POO2\ejemploHerencia\obj\Debug\ejemploHerencia.csproj.AssemblyReference.cache
+C:\Users\albad\Desktop\prog3 TN\UTN-Programacion3\3.POO++\POO2\ejemploHerencia\obj\Debug\ejemploHerencia.csproj.CoreCompileInputs.cache
+C:\Users\albad\Desktop\prog3 TN\UTN-Programacion3\3.POO++\POO2\ejemploHerencia\obj\Debug\ejemploHerencia.exe
+C:\Users\albad\Desktop\prog3 TN\UTN-Programacion3\3.POO++\POO2\ejemploHerencia\obj\Debug\ejemploHerencia.pdb
