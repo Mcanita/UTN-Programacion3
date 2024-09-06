@@ -1,0 +1,11 @@
+C:\Users\albad\Desktop\prog3 TN\UTN-Programacion3\4.WinForms\PrimeraSolucionWinForm\ejemploWinForm\bin\Debug\ejemploWinForm.exe.config
+C:\Users\albad\Desktop\prog3 TN\UTN-Programacion3\4.WinForms\PrimeraSolucionWinForm\ejemploWinForm\bin\Debug\ejemploWinForm.exe
+C:\Users\albad\Desktop\prog3 TN\UTN-Programacion3\4.WinForms\PrimeraSolucionWinForm\ejemploWinForm\bin\Debug\ejemploWinForm.pdb
+C:\Users\albad\Desktop\prog3 TN\UTN-Programacion3\4.WinForms\PrimeraSolucionWinForm\ejemploWinForm\obj\Debug\ejemploWinForm.csproj.AssemblyReference.cache
+C:\Users\albad\Desktop\prog3 TN\UTN-Programacion3\4.WinForms\PrimeraSolucionWinForm\ejemploWinForm\obj\Debug\ejemploWinForm.frmVentana1.resources
+C:\Users\albad\Desktop\prog3 TN\UTN-Programacion3\4.WinForms\PrimeraSolucionWinForm\ejemploWinForm\obj\Debug\ejemploWinForm.frmVentana2.resources
+C:\Users\albad\Desktop\prog3 TN\UTN-Programacion3\4.WinForms\PrimeraSolucionWinForm\ejemploWinForm\obj\Debug\ejemploWinForm.Properties.Resources.resources
+C:\Users\albad\Desktop\prog3 TN\UTN-Programacion3\4.WinForms\PrimeraSolucionWinForm\ejemploWinForm\obj\Debug\ejemploWinForm.csproj.GenerateResource.cache
+C:\Users\albad\Desktop\prog3 TN\UTN-Programacion3\4.WinForms\PrimeraSolucionWinForm\ejemploWinForm\obj\Debug\ejemploWinForm.csproj.CoreCompileInputs.cache
+C:\Users\albad\Desktop\prog3 TN\UTN-Programacion3\4.WinForms\PrimeraSolucionWinForm\ejemploWinForm\obj\Debug\ejemploWinForm.exe
+C:\Users\albad\Desktop\prog3 TN\UTN-Programacion3\4.WinForms\PrimeraSolucionWinForm\ejemploWinForm\obj\Debug\ejemploWinForm.pdb
