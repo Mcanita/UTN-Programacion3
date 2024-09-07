@@ -16,7 +16,7 @@ namespace ejemploWinForm
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new frmVentana2()); //VENTANA PRINCIPAL
+            Application.Run(new frmPrincipal()); //VENTANA PRINCIPAL
         }
     }
 }

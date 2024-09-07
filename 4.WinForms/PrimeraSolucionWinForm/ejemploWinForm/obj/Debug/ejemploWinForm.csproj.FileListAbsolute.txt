@@ -9,3 +9,4 @@ C:\Users\albad\Desktop\prog3 TN\UTN-Programacion3\4.WinForms\PrimeraSolucionWinF
 C:\Users\albad\Desktop\prog3 TN\UTN-Programacion3\4.WinForms\PrimeraSolucionWinForm\ejemploWinForm\obj\Debug\ejemploWinForm.csproj.CoreCompileInputs.cache
 C:\Users\albad\Desktop\prog3 TN\UTN-Programacion3\4.WinForms\PrimeraSolucionWinForm\ejemploWinForm\obj\Debug\ejemploWinForm.exe
 C:\Users\albad\Desktop\prog3 TN\UTN-Programacion3\4.WinForms\PrimeraSolucionWinForm\ejemploWinForm\obj\Debug\ejemploWinForm.pdb
+C:\Users\albad\Desktop\prog3 TN\UTN-Programacion3\4.WinForms\PrimeraSolucionWinForm\ejemploWinForm\obj\Debug\ejemploWinForm.frmPrincipal.resources
