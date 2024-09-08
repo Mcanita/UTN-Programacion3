@@ -1,0 +1,10 @@
+C:\Users\albad\Desktop\prog3 TN\UTN-Programacion3\4.WinForms\Excepciones\ejemploExcepciones\bin\Debug\ejemploExcepciones.exe.config
+C:\Users\albad\Desktop\prog3 TN\UTN-Programacion3\4.WinForms\Excepciones\ejemploExcepciones\bin\Debug\ejemploExcepciones.exe
+C:\Users\albad\Desktop\prog3 TN\UTN-Programacion3\4.WinForms\Excepciones\ejemploExcepciones\bin\Debug\ejemploExcepciones.pdb
+C:\Users\albad\Desktop\prog3 TN\UTN-Programacion3\4.WinForms\Excepciones\ejemploExcepciones\obj\Debug\ejemploExcepciones.csproj.AssemblyReference.cache
+C:\Users\albad\Desktop\prog3 TN\UTN-Programacion3\4.WinForms\Excepciones\ejemploExcepciones\obj\Debug\ejemploExcepciones.Form1.resources
+C:\Users\albad\Desktop\prog3 TN\UTN-Programacion3\4.WinForms\Excepciones\ejemploExcepciones\obj\Debug\ejemploExcepciones.Properties.Resources.resources
+C:\Users\albad\Desktop\prog3 TN\UTN-Programacion3\4.WinForms\Excepciones\ejemploExcepciones\obj\Debug\ejemploExcepciones.csproj.GenerateResource.cache
+C:\Users\albad\Desktop\prog3 TN\UTN-Programacion3\4.WinForms\Excepciones\ejemploExcepciones\obj\Debug\ejemploExcepciones.csproj.CoreCompileInputs.cache
+C:\Users\albad\Desktop\prog3 TN\UTN-Programacion3\4.WinForms\Excepciones\ejemploExcepciones\obj\Debug\ejemploExcepciones.exe
+C:\Users\albad\Desktop\prog3 TN\UTN-Programacion3\4.WinForms\Excepciones\ejemploExcepciones\obj\Debug\ejemploExcepciones.pdb
