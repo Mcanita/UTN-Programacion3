@@ -19,8 +19,15 @@ namespace ejemploWinForm
 
         private void perfilPersonaToolStripMenuItem_Click(object sender, EventArgs e)
         {
+            foreach (var item in Application.OpenForms) //para validar que la ventana se abra una sola vez
+            {
+                if (item.GetType() == typeof(frmPrincipal))
+                    MessageBox.Show("ya existe esta ventana abierta, termine de trabajar alli ... ");
+                    return;
+            }
             frmVentana2 ventana = new frmVentana2(); //con esto creo la ventana y la muestro
-            ventana.ShowDialog();
+            ventana.MdiParent = this;
+            ventana.Show();
         }
 
         private void tsbPerfilPersona_Click(object sender, EventArgs e)

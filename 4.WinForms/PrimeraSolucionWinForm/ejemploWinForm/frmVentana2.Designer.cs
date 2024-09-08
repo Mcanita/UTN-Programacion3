@@ -213,7 +213,7 @@ namespace ejemploWinForm
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(553, 425);
+            this.ClientSize = new System.Drawing.Size(516, 449);
             this.Controls.Add(this.btnVerPerfil);
             this.Controls.Add(this.numNumeroFavorito);
             this.Controls.Add(this.lblNumeroFavorito);
@@ -228,6 +228,8 @@ namespace ejemploWinForm
             this.Controls.Add(this.lwElementos);
             this.Controls.Add(this.txtNombre);
             this.Controls.Add(this.btnAgregar);
+            this.MaximumSize = new System.Drawing.Size(532, 488);
+            this.MinimumSize = new System.Drawing.Size(506, 464);
             this.Name = "frmVentana2";
             this.Text = "frmVentana2";
             this.Load += new System.EventHandler(this.frmVentana2_Load);

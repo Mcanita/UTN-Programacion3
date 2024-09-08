@@ -1,0 +1,10 @@
+C:\Users\albad\Desktop\prog3 TN\UTN-Programacion3\4.WinForms\PracticaDateTime\ejemploDateTime2\bin\Debug\ejemploDateTime2.exe.config
+C:\Users\albad\Desktop\prog3 TN\UTN-Programacion3\4.WinForms\PracticaDateTime\ejemploDateTime2\bin\Debug\ejemploDateTime2.exe
+C:\Users\albad\Desktop\prog3 TN\UTN-Programacion3\4.WinForms\PracticaDateTime\ejemploDateTime2\bin\Debug\ejemploDateTime2.pdb
+C:\Users\albad\Desktop\prog3 TN\UTN-Programacion3\4.WinForms\PracticaDateTime\ejemploDateTime2\obj\Debug\ejemploDateTime2.csproj.AssemblyReference.cache
+C:\Users\albad\Desktop\prog3 TN\UTN-Programacion3\4.WinForms\PracticaDateTime\ejemploDateTime2\obj\Debug\ejemploDateTime2.Form1.resources
+C:\Users\albad\Desktop\prog3 TN\UTN-Programacion3\4.WinForms\PracticaDateTime\ejemploDateTime2\obj\Debug\ejemploDateTime2.Properties.Resources.resources
+C:\Users\albad\Desktop\prog3 TN\UTN-Programacion3\4.WinForms\PracticaDateTime\ejemploDateTime2\obj\Debug\ejemploDateTime2.csproj.GenerateResource.cache
+C:\Users\albad\Desktop\prog3 TN\UTN-Programacion3\4.WinForms\PracticaDateTime\ejemploDateTime2\obj\Debug\ejemploDateTime2.csproj.CoreCompileInputs.cache
+C:\Users\albad\Desktop\prog3 TN\UTN-Programacion3\4.WinForms\PracticaDateTime\ejemploDateTime2\obj\Debug\ejemploDateTime2.exe
+C:\Users\albad\Desktop\prog3 TN\UTN-Programacion3\4.WinForms\PracticaDateTime\ejemploDateTime2\obj\Debug\ejemploDateTime2.pdb
